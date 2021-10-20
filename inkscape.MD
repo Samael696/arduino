@@ -103,5 +103,9 @@ Seleccionamos la imagen y pulsamos el botón.
 
 
 
+### observaciones
 
+Me a resultado realmente fácil la vectorizacion de estas imagenes, solo hubieron algunos errores en la ultima imagen debido a que el personaje transparenta con el fondo de mi ordenador, muy probablemente no se note en un fondo blanco.
+
+también he tenido que rediseñar pedazos del dibujo debido a que se veía muy feo algunas linéas que se ponian automaticamente por la vectorización, he aprendido mucho gracias a ese fallo en la imágen .
 
