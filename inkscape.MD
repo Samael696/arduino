@@ -39,4 +39,6 @@ añadimos la imagen de internet
 *click derecho en la imagen -- -- -- vectorizar mapas de bits
 
 
+### Explicación 
 
+![](https://github.com/Samael696/arduino/blob/main/Captura%20de%20pantalla%20de%202021-10-20%2012-51-47.png?raw=true)
