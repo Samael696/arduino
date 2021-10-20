@@ -76,6 +76,17 @@ Seleccionamos la imagen y pulsamos el botón.
 
 
 ------------------------------------------------------------------------Ajuste de lienzo a la imagen----------------------------------------------------------------
+
+
+
+
+
+![](https://raw.githubusercontent.com/Samael696/arduino/d8f92cff1e7e7869f4ef5ee0a6153285835888b6/le%C3%B3n1.svg)
+
+
+
+
+
 ![](https://github.com/Samael696/arduino/blob/main/Captura%20de%20pantalla%20de%202021-10-20%2013-28-06.png?raw=true)
 
 
