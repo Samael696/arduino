@@ -42,3 +42,20 @@ añadimos la imagen de internet
 ### Explicación 
 
 ![](https://github.com/Samael696/arduino/blob/main/Captura%20de%20pantalla%20de%202021-10-20%2012-51-47.png?raw=true)
+
+
+
+Existen varias opciones
+Primero es decidir si el programa hará una o más pasadas
+Con una uńica pasada siempre obtendremos una imagen en blanco y negro (que podremos colorear después)
+
+
+
+
+
+
+
+
+
+
+
