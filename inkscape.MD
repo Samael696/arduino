@@ -23,3 +23,20 @@ Esta es la imagen Rasterizada original
 
 [*enlace de la fuente original](https://www.museodelprado.es/coleccion/obra-de-arte/el-cid/19984271-9cb6-476d-8655-f012e1fec1bf) 
 
+
+
+tamaño personalizado
+ancho: 600
+alto: 1000
+
+cerramos la ventana
+
+añadimos la imagen de internet 
+
+-archivo -- -- -- importar
+-arrastrar la imagen
+-copiar y pegar la imagen
+*click derecho en la imagen -- -- -- vectorizar mapas de bits
+
+
+
