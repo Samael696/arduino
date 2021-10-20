@@ -81,7 +81,7 @@ Seleccionamos la imagen y pulsamos el botón.
 
 
 
-
+![](https://raw.githubusercontent.com/Samael696/arduino/8f71b52e3476cac509ac1cb5f262d0896b59f40e/le%C3%B3n.svg)
 
 
 
