@@ -12,3 +12,9 @@ esto es el numero que resulta de AxB en millones de píxeles
 -GIF-------se puede animar
 -PNG
 -TIFF
+
+
+### Ejercicio de vectorización
+
+Vamos a tomar la imagen del cuadro del León de Rosa Bonheur
+Esta es la imagen Rasterizada original 
