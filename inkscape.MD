@@ -50,6 +50,39 @@ Primero es decidir si el programa hará una o más pasadas
 Con una uńica pasada siempre obtendremos una imagen en blanco y negro (que podremos colorear después)
 
 
+---» Varias pasadas
+
+Nos permite hacer una imagen vectorial más compleja, con varios grises o colores. Esto necesita más capacidad de proceso
+
+Leon 1.svg
+
+Después de importar el león vamos a ajustar el lienzo. Para ello iremos a propiedades de documento --» en tamaño, vamos a ajustar página o contenido.
+Seleccionamos la imagen y pulsamos el botón.
+
+
+### ejercicio
+
+-Vectorizamos el león con las siguientes características
+→multiples pasadas
+→colores
+→8 pasadas
+
+
+-Borramos el ráster                                         3 Leones diferentes             
+-Guardamos como león.svg                                                                    {subir.svg
+-Subimos al Github                                          otras imagenes vectorizadas
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
