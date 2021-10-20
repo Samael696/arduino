@@ -109,3 +109,5 @@ Me a resultado realmente fácil la vectorizacion de estas imagenes, solo hubiero
 
 también he tenido que rediseñar pedazos del dibujo debido a que se veía muy feo algunas linéas que se ponian automaticamente por la vectorización, he aprendido mucho gracias a ese fallo en la imágen .
 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
