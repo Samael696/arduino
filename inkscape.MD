@@ -86,6 +86,9 @@ Seleccionamos la imagen y pulsamos el botón.
 
 
 
+![](https://raw.githubusercontent.com/Samael696/arduino/186b7a697afacdd2fd1444fc29ad4c08af31089d/goku.svg)
+
+
 
 
 
