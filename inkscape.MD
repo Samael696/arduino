@@ -21,5 +21,5 @@ Esta es la imagen Rasterizada original
 
 ![](https://github.com/Samael696/arduino/blob/main/511fdaef-910d-4148-9091-b2d19acdc2b5_832.jpg?raw=true)
 
-[enlace de la fuente original](https://www.museodelprado.es/coleccion/obra-de-arte/el-cid/19984271-9cb6-476d-8655-f012e1fec1bf) 
+[*enlace de la fuente original](https://www.museodelprado.es/coleccion/obra-de-arte/el-cid/19984271-9cb6-476d-8655-f012e1fec1bf) 
 
