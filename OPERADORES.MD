@@ -42,8 +42,7 @@ void loop() {
 
 ![](https://github.com/Samael696/arduino/blob/main/Captura%20de%20pantalla%20de%202021-11-03%2013-07-26.png?raw=true)
 
-
-
+los ejercicios actualmente completados resultaron ser muy parecidos en cuestión de programación por tener codigos muy similares (exactamente los mismos) epro con algunos ligeros cambios que hacían que el rsultado de cada ejercicio se totalmente distinto
 
 
 
