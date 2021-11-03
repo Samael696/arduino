@@ -42,3 +42,18 @@ void loop() {
 
 ![](https://github.com/Samael696/arduino/blob/main/Captura%20de%20pantalla%20de%202021-11-03%2013-07-26.png?raw=true)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
