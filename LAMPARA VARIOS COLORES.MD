@@ -39,10 +39,21 @@ Este es el código:
 
 [Código](https://github.com/Samael696/arduino/blob/main/lampara_varios_colores.ino)
 
+Esta es la parte donde se encienden los leds. Sin esta parte el led jamás se encenderá:
+
+```C++
+
+analogWrite(redLEDPin, redValue) ;
+analogWrite(greenLEDPin, greenValue) ;
+analogWrite(blueLEDPin, blueValue) ;
+
+```
 
 
 
-
+analogWrite(redLEDPin, redValue) ;
+analogWrite(greenLEDPin, greenValue) ;
+analogWrite(blueLEDPin, blueValue) ;
 
 
 
