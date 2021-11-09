@@ -46,7 +46,11 @@ los ejercicios actualmente completados resultaron ser muy parecidos en cuestión
 
 
 
+![](https://github.com/Samael696/arduino/blob/main/Captura%20de%20pantalla%20de%202021-11-09%2012-34-21.png?raw=true)
 
+esta es la parte de la programacion de el led que cambia de colores
+en principio lo estuve haciendo con el compañero Ismael pero a medias debido a su ausencia tuve que tomar el cargo completo del proyecto, sin embargo estoy muy agradecido con el con la ayuda que me dio.
+---
 
 
 
