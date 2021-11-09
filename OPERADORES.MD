@@ -48,9 +48,15 @@ los ejercicios actualmente completados resultaron ser muy parecidos en cuestión
 
 ![](https://github.com/Samael696/arduino/blob/main/Captura%20de%20pantalla%20de%202021-11-09%2012-34-21.png?raw=true)
 
-esta es la parte de la programacion de el led que cambia de colores
-en principio lo estuve haciendo con el compañero Ismael pero a medias debido a su ausencia tuve que tomar el cargo completo del proyecto, sin embargo estoy muy agradecido con el con la ayuda que me dio.
----
+esta es la parte de la programacion de el led que cambia de colores.
+
+En principio lo estuve haciendo con el compañero Ismael pero a medias debido a su ausencia tuve que tomar el cargo completo del proyecto, sin embargo estoy agradecido con el con la ayuda que me dio.
+
+no pude concluir el proyecto debido a una falla en el led, uno de los colores no se dejaba notar (NO APARECIA) cabe decir que con ayuda del profesor hice muchos cambios que creiamos y eran necesarios para que el proyecto pueda funcionar como debe, cambiamos una resistencia, cambiamos unos cables de lado, y por un momento creí que el culpable de todo era el potenziometro pero con ayuda del monitor de arduino me di cuenta que estaba equivocado.
+todo concluyó en un exito a medias ya que la luz roja nunca apareció.
+
+La culpa no era mía, era del led que tenía una parte mala, cambié de led y pudo funcionar al fin. 
+
 
 
 
