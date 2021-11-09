@@ -86,18 +86,6 @@ esta es la parte de la programacion de el led que cambia de colores.
 En principio lo estuve haciendo con el compañero Ismael pero a medias debido a su ausencia tuve que tomar el cargo completo del proyecto, sin embargo estoy agradecido con el con la ayuda que me dio.
 
 
-![](https://github.com/Samael696/arduino/blob/main/IMG_20211109_135149.jpg?raw=true)
-
-
-Por poco pude concluir el proyecto debido a una falla en el led, uno de los colores no se dejaba notar (NO APARECIA) cabe decir que con ayuda del profesor hice muchos cambios que creiamos y eran necesarios para que el proyecto pueda funcionar como debe, cambiamos una resistencia, cambiamos unos cables de lado, y por un momento creí que el culpable de todo era el potenziometro pero con ayuda del monitor de arduino me di cuenta que estaba equivocado.
-todo concluyó en un exito a medias ya que la luz roja nunca apareció.
-
-La culpa no era mía, era del led que tenía una parte mala, cambié de led y pudo funcionar al fin. 
-
-
-
-
-
 ## Código
 
 Este es el código:
@@ -114,6 +102,19 @@ analogWrite(blueLEDPin, blueValue) ;
 
 ```
 
+
+
+
+
+
+
+![](https://github.com/Samael696/arduino/blob/main/IMG_20211109_135149.jpg?raw=true)
+
+
+Por poco pude concluir el proyecto debido a una falla en el led, uno de los colores no se dejaba notar (NO APARECIA) cabe decir que con ayuda del profesor hice muchos cambios que creiamos y eran necesarios para que el proyecto pueda funcionar como debe, cambiamos una resistencia, cambiamos unos cables de lado, y por un momento creí que el culpable de todo era el potenziometro pero con ayuda del monitor de arduino me di cuenta que estaba equivocado.
+todo concluyó en un exito a medias ya que la luz roja nunca apareció.
+
+La culpa no era mía, era del led que tenía una parte mala, cambié de led y pudo funcionar al fin. 
 
 
 
