@@ -57,6 +57,8 @@ todo concluyó en un exito a medias ya que la luz roja nunca apareció.
 
 La culpa no era mía, era del led que tenía una parte mala, cambié de led y pudo funcionar al fin. 
 
+![](https://github.com/Samael696/arduino/blob/main/IMG_20211109_135149.jpg?raw=true)
+
 
 
 
