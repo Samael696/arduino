@@ -33,7 +33,11 @@ jloat → números decimales
 
 
 
+## Código
 
+Este es el código:
+
+[Código](https://github.com/Samael696/arduino/blob/main/lampara_varios_colores.ino)
 
 
 
