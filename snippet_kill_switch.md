@@ -1,5 +1,5 @@
-
 ```c++
+
 //Colocar en la sección de variables globales.
 int switchState = 0;
 bool isTheButtonBeingPressed = false;
@@ -31,4 +31,5 @@ void checkButton(){
   }
 
 }
+
 ```
