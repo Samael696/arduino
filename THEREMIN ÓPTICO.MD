@@ -56,8 +56,7 @@ sensorValue = analogRead(Aø); → LEER
 int pitch = map(sensorValue,sensorLow,sensorHigh,50, 4000); → TRANSFORMAR
 tone(8,pitch,20);
 
-
-
+### sonido con botón
 
 
 
