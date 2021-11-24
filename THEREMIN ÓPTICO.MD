@@ -48,3 +48,37 @@ int pitch =
   delay(10);
   }
 ```
+
+### función del codigo
+
+loop() {
+sensorValue = analogRead(Aø); → LEER
+int pitch = map(sensorValue,sensorLow,sensorHigh,50, 4000); → TRANSFORMAR
+tone(8,pitch,20);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
