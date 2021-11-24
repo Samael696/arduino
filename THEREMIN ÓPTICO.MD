@@ -51,12 +51,31 @@ int pitch =
 
 ### función del codigo
 
+
 loop() {
 sensorValue = analogRead(Aø); → LEER
 int pitch = map(sensorValue,sensorLow,sensorHigh,50, 4000); → TRANSFORMAR
 tone(8,pitch,20);
 
-### sonido con botón
+### otro codigo 
+
+map(sensorValue,sensorLwo,sensorHigh, 50, 4000);
+tone(8,lpitch,20) ;
+delay(10);
+}
+
+void loop() {
+  int estadoBoton = digitalRead(2);
+  if(estadoBoton == HIGH){
+  tocarTheremin();
+  }
+  else{
+    noTonr(8);
+    delay(10);
+  }
+}  
+
+
 
 
 
