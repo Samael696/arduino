@@ -116,8 +116,11 @@ void checkButton(){
 }
 ```
 
+### Snippet
 
+El Snippet es un fragmento de codigo que no funciona por si mismo que sirve para una función concreta.
 
+Los snippets se copian, se pegan y normalmente se adapatan al código a mano por el programador
 
 
 
