@@ -59,7 +59,7 @@ tone(8,pitch,20);
 
 ### otro codigo 
 
-```
+```c++
 
 map(sensorValue,sensorLwo,sensorHigh, 50, 4000);
 tone(8,lpitch,20) ;
