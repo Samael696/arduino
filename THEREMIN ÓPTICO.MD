@@ -123,7 +123,53 @@ El Snippet es un fragmento de codigo que no funciona por si mismo que sirve para
 Los snippets se copian, se pegan y normalmente se adapatan al código a mano por el programador
 
 
+### variacion 3
 
+```c++
+sensorValue = analogRead(A0);
+if (sensorValue > sensorHigh) {
+sensorHigh = sensorValue;
+}
+if (sensorValue > sensorLow) {
+sensorLow = sensorValue;
+ }
+}
+digitalWrite(LedPin, LOW);
+}
+void tocarTheremin(){
+   
+sensorValue = analogRead(A0);
+
+int pitch =
+  map(sensorValue,sensorLow,sensorHigh, 50 , 4000);
+  
+  tone(8,pitch,20);
+  
+  delay(10);
+}
+
+void loop() {
+  checkButton();
+  if (play) {
+    tocarTheremin();
+  }
+}
+
+
+void checkButton(){
+  switchState = digitalRead(buttonPin);
+  if (switchState == HIGH && !isTheButtonBeingPressed){
+    play = !play;
+    isTheButtonBeingPressed = true;
+  }
+  
+  if (switchState == LOW)
+  {
+  isTheButtonBeingPressed = false;
+  }
+
+}
+```
 
 
 
