@@ -1,4 +1,4 @@
-```c++
+
 
 //Colocar en la sección de variables globales.
 int switchState = 0;
@@ -32,4 +32,4 @@ void checkButton(){
 
 }
 
-```
+
