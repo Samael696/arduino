@@ -10,7 +10,7 @@ Si hay 5v, se activará los circuitos* si es 0v no sé activarán.
 
 ### EJERCICI0 1
 
-´´´c++
+```c++
 int estadoBotonPin2 = 0;
 int estadoBotonPin3 = 0;
 void setup() {
@@ -40,7 +40,7 @@ void loop() {
  }
 }//llave del loop
 
-´´´
+```
 
 ![](https://github.com/Samael696/arduino/blob/main/Captura%20de%20pantalla%20de%202021-11-03%2013-07-26.png?raw=true)
 
