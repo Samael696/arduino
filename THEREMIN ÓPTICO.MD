@@ -59,6 +59,8 @@ tone(8,pitch,20);
 
 ### otro codigo 
 
+```
+
 map(sensorValue,sensorLwo,sensorHigh, 50, 4000);
 tone(8,lpitch,20) ;
 delay(10);
@@ -75,7 +77,7 @@ void loop() {
   }
 }  
 
-
+```
 
 
 
