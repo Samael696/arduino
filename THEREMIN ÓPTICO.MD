@@ -1,3 +1,4 @@
+## THEREMIN 
 Crearemos un theremin con ayuda de un fototransistor.
 (Un fototransistor es un transistor sensible a la luz, normalmente a los infrarrojos. La luz incide sobre la región de base, generando portadores en ella. Esta carga de base lleva el transistor al estado de conducción.
 Como fototransistor, cuando la luz que incide en este elemento hace las veces de corriente de base.)
@@ -9,6 +10,8 @@ Un theremin es un instrumento que produce sonido en base a los movimientos de la
 Probablemente  hayas escuchado alguno en peliculas de terror. 
 El theremin detecta dónde están las manos del músico en relación a dos antenas, leyendo la transformación capasitiva en las antenas.
 Estas antenas están conectadas a un circuito analógico que crea el sonido. Una antena controla la frecuencia del sonido, y la otra controla el volume
+
+### CODIGO
 
 ```C++
 int sensorValue;
