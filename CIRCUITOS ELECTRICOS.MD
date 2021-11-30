@@ -48,3 +48,6 @@ Resistencia = ----------- = x ohms
 ```
 
 ---
+
+
+pillado de JM
