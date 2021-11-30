@@ -1,3 +1,4 @@
+```C++
 int switchState = 0;
 
 void setup() {
@@ -38,7 +39,6 @@ delay(250); // espera un cuarto de segundo
 
 } // vuelve al inicio del bucle
 
-
-## procedimiento 
+```
 
 
