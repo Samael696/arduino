@@ -1,4 +1,4 @@
-ç´´´
+```c++
 int notes[] = {262,294,330,349};
 
 void setup() {
@@ -48,5 +48,4 @@ else{
     digitalWrite(2,LOW);
   }
 }
-
-ç´´´
+```c++
