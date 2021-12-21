@@ -191,6 +191,8 @@ void tocarMelodia(){
   tocarNota(4,1);
   tocarNota(3,1);
   tocarNota(3,1);
+  tocarNota(1,1);
+  tocarNota(5,1);
   
 
 
