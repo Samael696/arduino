@@ -26,7 +26,7 @@ void loop(){
 void tocarMelodia(){
   tocarNota(1,0.5);
   tocarNota(2,1);
-  tocarNota(1,0.5);
+  tocarNota(-1,0.5);
   tocarNota(1,0.5);
   tocarNota(1,1);
   tocarNota(6,0.5);
@@ -75,5 +75,4 @@ else{
 }
 }
 ```
-
-gfasdgadfgf
+este es el villancico de rodolfo el reno el cual nos ha dado un poco de problemas con los silencios pero lo pudimos arreglar
