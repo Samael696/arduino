@@ -14,4 +14,4 @@ utilizé:
 -Un potenciometro
 -6 luces LED
 -6 resistencias de 220Ω
-----
+```
