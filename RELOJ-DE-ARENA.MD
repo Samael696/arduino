@@ -9,9 +9,9 @@
 
 el proyecto en si no era muy difícil pero me ha costado un poco debido a peuqeños errores en el momento de programar el codigo de las luces LED
 utilizé:
-
+```C++
 -Cables conectores macho-macho
 -Un potenciometro
 -6 luces LED
 -6 resistencias de 220Ω
------
+----
