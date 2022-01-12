@@ -1,4 +1,4 @@
-Ç```
+
 const int switchPin = 8;
 unsigned long previousTime = 0; 
 int switchState = 0;
@@ -245,4 +245,4 @@ void tocarNota(int numeroNota, float duracionNota){
 }
 
 
-Ç```
+
