@@ -1,4 +1,17 @@
 ## Reloj de arena<3
 
-------------------------
-juasjuasjuasjuasjuasjuasjuasjuasjuasjuasjausjuasjuas
+*este proyecto es el que más me gusta hasta el momento debido a que combina las dos cosas que más me gustan:
+
+-Luces led
+-Música
+
+-------------------------------
+
+el proyecto en si no era muy difícil pero me ha costado un poco debido a peuqeños errores en el momento de programar el codigo de las luces LED
+utilizé:
+
+-Cables conectores macho-macho
+-Un potenciometro
+-6 luces LED
+-6 resistencias de 220Ω
+-----
