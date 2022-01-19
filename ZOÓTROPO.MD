@@ -21,4 +21,4 @@ tuvieron unos cuantos problemas con eso.
 Recomiendo revisar bien el hardware por que es muy facíl equivocarse en esa parte debiso a que son muchos cables 
 y todo parece un enrredo despúes de unos cuantos cables puestos.
 
-Para es te proyecto recomiendo cuidado y orden ya que el [puente H](https://es.wikipedia.org/wiki/Puente_H_(electr%C3%B3nica) me parce algo que hay que manipular con cuidado.
+Para es te proyecto recomiendo cuidado y orden ya que [el puente H](https://es.wikipedia.org/wiki/Puente_H_(electr%C3%B3nica) me parce algo que hay que manipular con cuidado.
