@@ -14,6 +14,8 @@ Cabe decir que hay que tener mucho cuidado al programar este proyecto en arduino
 a gastar mucho tiempo tratando de hayar el desperfecto, felizmente no me ocurrió a mí epro vi que algunos colegas
 tuvieron unos cuantos problemas con eso.
 
+-----
+
 ### recomendaciones
 
 Recomiendo revisar bien el hardware por que es muy facíl equivocarse en esa parte debiso a que son muchos cables 
