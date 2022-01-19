@@ -1,3 +1,4 @@
+```C++
 Energía= PotenciaTipempo
 
 E = P·T
@@ -7,7 +8,7 @@ I = V/R
 Intensidad = voltaje 
              dividido
              resistencia
-
+```
 -------------
 
 El proyecto aún  no ha empezado pero la curiosidad me ha llegado en el momento que me dieron el motor.
