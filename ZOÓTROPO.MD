@@ -23,5 +23,8 @@ y todo parece un enrredo despúes de unos cuantos cables puestos.
 
 Para es te proyecto recomiendo cuidado y orden ya que el puente H me parce algo que hay que manipular con cuidado.
 
+-------
 
-### [Puente H](https://es.wikipedia.org/wiki/Puente_H_(electr%C3%B3nica))
+### [El puente H](https://es.wikipedia.org/wiki/Puente_H_(electr%C3%B3nica))
+
+Un Puente en H es un circuito electrónico que generalmente se usa para permitir a un motor eléctrico DC girar en ambos sentidos, avance y retroceso. Son ampliamente usados en robótica y como convertidores de potencia. Los puentes H están disponibles como circuitos integrados, pero también pueden construirse a partir de componentes discretos. 
