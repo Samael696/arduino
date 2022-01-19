@@ -28,3 +28,8 @@ Para es te proyecto recomiendo cuidado y orden ya que el puente H me parce algo 
 ### [El puente H](https://es.wikipedia.org/wiki/Puente_H_(electr%C3%B3nica))
 
 Un Puente en H es un circuito electrónico que generalmente se usa para permitir a un motor eléctrico DC girar en ambos sentidos, avance y retroceso. Son ampliamente usados en robótica y como convertidores de potencia. Los puentes H están disponibles como circuitos integrados, pero también pueden construirse a partir de componentes discretos. 
+
+
+### codigo
+
+[codigo](https://github.com/Samael696/arduino/blob/main/codigo%20zo%C3%B3tropo.MD)
