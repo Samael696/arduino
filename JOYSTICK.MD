@@ -4,6 +4,20 @@
 
 -----
 
+### Prueba
+
+
+
+### Variaciones
+
+-*Variacion 1*
+
+he limpiado y ajustado el codigo del theremin optico para poder adaptarlo a el uso del joystick y salido perfecto
+
+[*codigo*](https://github.com/Samael696/arduino/blob/main/joystick%20X%20theremin.ino)
+
+
+
 ### Clase de Joystick
 
 
