@@ -34,7 +34,9 @@ Tener en cuenta que los tres cables del servomotor no van al azar, el negro, el 
 
 
 
+### El codigo
 
+Este es el codigo de este proyecto    [0000000000](https://github.com/Samael696/arduino/blob/main/codigo%20cerrojo%20de%20puerta.ino)
 
 
 
