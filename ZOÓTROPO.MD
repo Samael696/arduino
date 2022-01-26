@@ -32,4 +32,4 @@ Un Puente en H es un circuito electrónico que generalmente se usa para permitir
 
 ### codigo
 
-[codigo](https://github.com/Samael696/arduino/blob/main/codigo%20zo%C3%B3tropo.MD)
+[ El codigo](https://github.com/Samael696/arduino/blob/main/codigo%20zo%C3%B3tropo.MD)
