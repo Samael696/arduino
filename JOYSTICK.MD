@@ -7,7 +7,7 @@
 ### Clase de Jpystick
 
 
-[D- Prieto](https://github.com/d-prieto/arduinoCourse/blob/main/Clase_de_Joystick.md)
+[*D- Prieto*](https://github.com/d-prieto/arduinoCourse/blob/main/Clase_de_Joystick.md)
 
 
 
