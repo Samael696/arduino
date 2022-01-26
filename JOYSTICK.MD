@@ -6,13 +6,14 @@
 
 ### Prueba
 
-
+El joystick a funcionado perfectamente, funciona correctamente y da las señales que deberia dar, a continuacion trataré de hacerle 
+unas modificaciones para un diferente uso al de solo ver como cambian numeros en la pantalla por ejemeplo hacer que encienda leds y/o que modifique tonos de sonidos según a que lado apunte el joystick.
 
 ### Variaciones
 
 -*Variacion 1*
 
-he limpiado y ajustado el codigo del theremin optico para poder adaptarlo a el uso del joystick y salido perfecto
+Hice uso del codigo del theremin optico,lo he limpiado y ajustado para poder adaptarlo a el uso del joystick y salido perfecto.
 
 [*codigo*](https://github.com/Samael696/arduino/blob/main/joystick%20X%20theremin.ino)
 
