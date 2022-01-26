@@ -11,7 +11,7 @@ El proyecto se finalizo muy rapído y por consiguiente tuvo un fallo que se logr
 Es el segundo proyecto que más me gusta hasta ahora.
 
 Cabe decir que hay que tener mucho cuidado al programar este proyecto en arduino por que un solo fallo te puede llevar
-a gastar mucho tiempo tratando de hayar el desperfecto, felizmente no me ocurrió a mí epro vi que algunos colegas
+a gastar mucho tiempo tratando de hayar el desperfecto, felizmente no me ocurrió a mí pero vi que algunos colegas
 tuvieron unos cuantos problemas con eso.
 
 -----
