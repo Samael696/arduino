@@ -29,8 +29,8 @@ a lo que dice el libro y mayor dievrsión a este experimento que se asemeja al c
 
 ### leer
 
-En este proyecto hemos aprendido a instalar una librería de un tercero y a utilizar una lámina metálica como sensor de entrada. 
-Pero…, Si nos fijamos bien en los valores que nos proporciona el sensor de entrada, veremos que hay todo un abanico de ellos
+*En este proyecto hemos aprendido a instalar una librería de un tercero y a utilizar una lámina metálica como sensor de entrada. 
+Pero…, Si nos fijamos bien en los valores que nos proporciona el sensor de entrada, veremos que hay todo un abanico de ellos*
 
 
 ------
