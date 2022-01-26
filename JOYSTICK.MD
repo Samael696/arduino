@@ -4,7 +4,7 @@
 
 -----
 
-### Clase de Jpystick
+### Clase de Joystick
 
 
 [*D- Prieto*](https://github.com/d-prieto/arduinoCourse/blob/main/Clase_de_Joystick.md)
