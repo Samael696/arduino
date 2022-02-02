@@ -2,12 +2,22 @@
 
 ### Teoria
 
-```
 
-Este proyecto trató de crear una bola de cristal para predecir el futuro. Las bolas de cristal pueden ayudar a ¨predecir¨ el futuro. les haces una pregunta a la bola omnisciente, y le das la vuelta para revelar una respuesta. Las respuestas serán predeterminadas, pero puedes apuntar cualquier cosa que te parezca. Usaras tu Arduin para elegir de un total de 8 respuestas. El interruptor de inclinación te ayuda a replicar el movimiento de agitar la bola en busca de respuestas.
-Para crear este apasionante proyecto necesité: un interruptor de inclinación, una resistencia de 10 kiloohmios, una de 220 ohmios, un potenciometro y una pantalla LCD.
 
-```
+Este proyecto trató de crear una bola de cristal para predecir el futuro.
+Las bolas de cristal pueden ayudar a ¨predecir¨ el futuro. les haces una pregunta 
+a la bola omnisciente, y le das la vuelta para revelar una respuesta. 
+Las respuestas serán predeterminadas, pero puedes apuntar cualquier cosa que te parezca. 
+Usaras tu Arduin para elegir de un total de 8 respuestas.
+El interruptor de inclinación te ayuda a replicar el movimiento de agitar la bola en busca de respuestas.
+
+Para crear este apasionante proyecto necesité: un interruptor de inclinación
+una resistencia de 10 kiloohmios
+una de 220 ohmios
+un potenciometro
+y una pantalla LCD
+
+
  
  ---
  
