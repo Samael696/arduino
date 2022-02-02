@@ -26,7 +26,7 @@
 
 13.[Lámpara tactil](https://github.com/Samael696/arduino/blob/main/L%C3%81MPARA%20T%C3%81CTIL.MD)
 
-14.[Medidor de temperatura y humedad] 
+14.[Medidor de temperatura y humedad](https://github.com/Samael696/arduino/blob/main/MEDIDOR%20DE%20TEMPERATURA%20Y%20HUMEDAD.md)
 
 
 
