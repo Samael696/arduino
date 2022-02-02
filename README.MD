@@ -12,7 +12,7 @@
 
 6.[Theremin óptico](https://github.com/Samael696/arduino/blob/main/THEREMIN%20%C3%93PTICO.MD)
 
-7.[Instrumeno teclado]()
+7.[Instrumeno teclado](https://github.com/Samael696/arduino/blob/main/INSTRUMENTO%20TECLADO.md)
 
 8.[Reloj de arena digital](https://github.com/Samael696/arduino/blob/main/RELOJ-DE-ARENA.MD)
 
