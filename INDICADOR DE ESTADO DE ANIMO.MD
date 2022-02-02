@@ -41,3 +41,7 @@ Fuente: diccionario de Oxford Languages
 
 
 ---
+
+### codigo
+
+codigo indicador de animo = [0000000](https://github.com/Samael696/arduino/tree/main)
