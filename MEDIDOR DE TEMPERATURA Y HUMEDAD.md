@@ -2,7 +2,9 @@
 
  Nuestra práctica consiste en un dispositivo que medirá la temperatura y 
  humedad y las notificará mediante una pantalla LCD.
-
+  
+-------
+  
 ### DHT11
 
 Una de las ventajas que nos ofrece el DHT11, además de medir la temperatura y la humedad, es que es digital.
