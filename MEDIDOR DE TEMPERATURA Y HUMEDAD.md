@@ -17,6 +17,8 @@ componentes dependan de la temperatura o la humedad para tomar las medidas.
 
 ![](https://github.com/Samael696/arduino/blob/main/medidor.jpg?raw=true)
 
+-----
+
 ### codigo
 
 codigo medidor de temperatura y humedad == [0000000](https://github.com/Samael696/arduino/blob/main/codigo%20medidor%20de%20temperatura.ino)
