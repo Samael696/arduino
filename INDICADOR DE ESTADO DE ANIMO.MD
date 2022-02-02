@@ -2,21 +2,17 @@
 
 ### Proceso
 
-```
 
-Dibujar un indicador de estado en una hoja en blanco con 5 “niveles” del 
-estado de animo; yo clasifiqué los niveles del estado de animo asi:
-Feliz, Enfadado, Triste, Normal, Risueño
+Este fue mi primer proyecto usando algún tipo de motor, en este caso un servomotor. En este circuito se usa un servomotor para hacer un calibrador mecánico para indicar de qué humor estás ese día.
+Se necesitan los siguientes componentes: potenciometros, servomotor, brazo motor y dos condensadores
+La interfaz no fue muy difícil de montar ya que no llevaba gran número de componentes ni de cables.
+Este código fue muy fácil de crear ya que era muy corto y no era difícil de comprender.
+En este proyecto no tuve ningún problema, solo que aun no comprendí para que servia bien.
 
-Montar el arduino con el modelo de la página 64 y programarlo.
 
-```
-
----
 
 ### Problemas
 
-```
 
 El problema con la página 64 es que ciertos cables no se encontraban en
 el mismo orden de la foto, así que tuve que cambiar ciertas cosas para
@@ -28,7 +24,7 @@ debido a un problema de conexión que se resolvió reafirmando la conexión.
 Los circuitos eléctricos se representan mediante esquemas que permiten entender qué
 elementos hay y su conexión entre sí, para ello se usan símbolos.
 
-```
+
 
 ---
 
