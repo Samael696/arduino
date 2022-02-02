@@ -13,6 +13,7 @@ Porque me fue muy difícil pasar las partituras a notas (do, re; mi..) con los t
 sino una pequeña primera parte de ella. Por falta de tiempo no se va poder completar el proyecto en el mismo día. El progreso que tengo está subido en el enlace de "Arduino"
 
 ### codigos
+-----
 
 [Villancico](https://github.com/Samael696/arduino/blob/main/codigo%20villancicos.MD)
 
