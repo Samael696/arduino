@@ -20,7 +20,7 @@
 
 10.[Zoótropo](https://github.com/Samael696/arduino/blob/main/ZO%C3%93TROPO.MD)
 
-11.[Bola de cristal]()
+11.[Bola de cristal](https://github.com/Samael696/arduino/blob/main/Bola%20de%20cristal.md)
 
 12.[Cerrojo de puerta](https://github.com/Samael696/arduino/blob/main/CERROJO%20DE%20PUERTA.MD)
 
