@@ -9,6 +9,8 @@
 El joystick a funcionado perfectamente, funciona correctamente y da las señales que deberia dar, a continuacion trataré de hacerle 
 unas modificaciones para un diferente uso al de solo ver como cambian numeros en la pantalla por ejemeplo hacer que encienda leds y/o que modifique tonos de sonidos según a que lado apunte el joystick.
 
+[*codigo*](https://github.com/Samael696/arduino/blob/main/joystick.ino)
+
 ### Variaciones
 
 -*Variacion 1*
