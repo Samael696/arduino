@@ -11,11 +11,18 @@ Las respuestas serán predeterminadas, pero puedes apuntar cualquier cosa que te
 Usaras tu Arduin para elegir de un total de 8 respuestas.
 El interruptor de inclinación te ayuda a replicar el movimiento de agitar la bola en busca de respuestas.
 
-Para crear este apasionante proyecto necesité: un interruptor de inclinación
+Para crear este apasionante proyecto necesité:
+
+un interruptor de inclinación
+
 una resistencia de 10 kiloohmios
+
 una de 220 ohmios
+
 un potenciometro
+
 y una pantalla LCD
+
 
 
  
