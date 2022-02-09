@@ -14,6 +14,12 @@ de JoJo's
 --------
 ![](https://github.com/Samael696/arduino/blob/main/Captura%20de%20pantalla%20de%202022-02-09%2010-47-17.png?raw=true)
 -------
+## enlace de video 
+
+[*YOUTUBE = #Rousseau #Piano #PianoCover
+Giorno's Theme (Piano Cover) - JoJo's Bizarre Adventure: Golden Wind]( https://www.youtube.com/watch?v=NscXXbmAggI )
+
+-----
 ![](https://github.com/Samael696/arduino/blob/main/Captura%20de%20pantalla%20de%202022-02-09%2010-47-21.png?raw=true)
 
 *Giorno's theme song prtotype code* >>>>> [0000000](https://github.com/Samael696/arduino/blob/main/codigo%20giornos%20themesong.MD)
