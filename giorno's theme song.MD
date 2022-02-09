@@ -1,5 +1,13 @@
 ## Giorno's Giovanna
+--------
 
+Este proyecto es una varieante del tarbajo de melodia que realmente no me ha quedado perfecto pero
+es decente al menos para presentar
+
+Tarde una hora y media tratando de encontrar las notas y duracion exactas para poder recrear el tema
+de JoJo's
+
+--------
 ![](https://github.com/Samael696/arduino/blob/main/xgiorno.jpg?raw=true)
 
 ### codigo
