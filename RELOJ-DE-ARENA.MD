@@ -12,10 +12,14 @@
 El proyecto en si no era muy difícil pero me ha costado un poco debido a peuqeños errores en el momento de programar el codigo de las luces LED
 utilizé:
 ```C++
--Cables conectores macho-macho
--Un potenciometro
--6 luces LED
--6 resistencias de 220Ω
+Para este proyecto necesitareis:
+
+    4-6 LEDs
+    Un botón
+    Cables
+    Una resistencia de 10 kilo-ohmnios (Marrón-Blanco-Naranja)
+    Tantas resistencias de 220 ohmnios como LEDs (Rojo-Rojo-Marrón)
+
 ```
 -------------------
 ## hardware explicado
