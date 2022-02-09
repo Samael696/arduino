@@ -17,3 +17,7 @@ utilizé:
 -6 luces LED
 -6 resistencias de 220Ω
 ```
+-------------------
+## hardware explicado
+
+![](https://github.com/Samael696/arduino/blob/main/reloj_arena_circuito.jpg?raw=true)
