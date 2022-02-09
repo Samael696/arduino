@@ -20,7 +20,7 @@
 
 10.[Zoótropo](https://github.com/Samael696/arduino/blob/main/ZO%C3%93TROPO.MD)
 
-11.[Bola de cristal](https://github.com/Samael696/arduino/blob/main/Bola%20de%20cristal.md)
+11.[Bola de cristal](https://github.com/Samael696/arduino/blob/main/BOLA%20DE%20CRISTAL.md)
 
 12.[Giorno's theme melodia](https://github.com/Samael696/arduino/blob/main/giorno's%20theme%20song.MD)
 
