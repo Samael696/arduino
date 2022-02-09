@@ -40,8 +40,9 @@ Para montar el circuito de este proyecto necesitamos los siguientes componentes:
 
 – 1 Pulsador.
 
+### codigo molinillo
 
-
+codigo >>>>>> [000000](https://github.com/Samael696/arduino/blob/main/codigo%20molinillo.ino)
 
              
              
