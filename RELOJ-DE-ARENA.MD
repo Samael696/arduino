@@ -35,3 +35,8 @@ Terminado de montar el circuito, deberíamos de tener algo parecido al mostrado 
 -------------------
 
 ![](https://github.com/Samael696/arduino/blob/main/reloj_arena_circuito.jpg?raw=true)
+-------------------
+
+### variacion giorno's theme 7 reloj de arena
+
+codigo >>>>> [000000000000](https://github.com/Samael696/arduino/blob/main/RELOJ%20DE%20ARENA%20DIGITAL-GIORNOS%20THEME.MD)
