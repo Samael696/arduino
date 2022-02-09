@@ -6,8 +6,10 @@
 -Música
 
 -------------------------------
+![](https://github.com/Samael696/arduino/blob/main/IMG_20220112_095505.jpg?raw=true)
+-------------------------------
 
-el proyecto en si no era muy difícil pero me ha costado un poco debido a peuqeños errores en el momento de programar el codigo de las luces LED
+El proyecto en si no era muy difícil pero me ha costado un poco debido a peuqeños errores en el momento de programar el codigo de las luces LED
 utilizé:
 ```C++
 -Cables conectores macho-macho
