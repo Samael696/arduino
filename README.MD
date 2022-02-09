@@ -22,11 +22,13 @@
 
 11.[Bola de cristal](https://github.com/Samael696/arduino/blob/main/Bola%20de%20cristal.md)
 
-12.[Cerrojo de puerta](https://github.com/Samael696/arduino/blob/main/CERROJO%20DE%20PUERTA.MD)
+12.[Giorno's theme melodia](https://github.com/Samael696/arduino/blob/main/giorno's%20theme%20song.MD)
 
-13.[Lámpara tactil](https://github.com/Samael696/arduino/blob/main/L%C3%81MPARA%20T%C3%81CTIL.MD)
+13.[Cerrojo de puerta](https://github.com/Samael696/arduino/blob/main/CERROJO%20DE%20PUERTA.MD)
 
-14.[Medidor de temperatura y humedad](https://github.com/Samael696/arduino/blob/main/MEDIDOR%20DE%20TEMPERATURA%20Y%20HUMEDAD.md)
+14.[Lámpara tactil](https://github.com/Samael696/arduino/blob/main/L%C3%81MPARA%20T%C3%81CTIL.MD)
+
+15.[Medidor de temperatura y humedad](https://github.com/Samael696/arduino/blob/main/MEDIDOR%20DE%20TEMPERATURA%20Y%20HUMEDAD.md)
 
 
 
