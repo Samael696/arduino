@@ -1,1 +1,1 @@
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fjojo.fandom.com%2Fes%2Fwiki%2FGiorno_Giovanna&psig=AOvVaw1L4NA8ierrdkntMfI0b4tI&ust=1644486127393000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiAk7Oq8vUCFQAAAAAdAAAAABAJ)
+![](https://github.com/Samael696/arduino/blob/main/xgiorno.jpg?raw=true)
